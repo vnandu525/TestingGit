@@ -1,0 +1,2 @@
+hello this is learning way of vscode
+new lines there!
